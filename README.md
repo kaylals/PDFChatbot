@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # First Time Setup
 
 ## Using Pipenv [Recommended]
@@ -160,3 +161,6 @@ Then:
 ```
 flask --app app.web init-db
 ```
+=======
+# PDFChatbot
+>>>>>>> 7ad308adeb4300d2e3efb91ddc2c006602e4a5cc
